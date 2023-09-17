@@ -7,6 +7,9 @@
 .NORA{color: rgb(230, 77, 12);}
 .MAID{color: rgb(224, 221, 7);}
 
+.HELMER:hover{text-shadow:6px 7px 5px rgb(56, 7, 230);border: solid 3px rgb(230, 77, 12);}
+.NORA:hover{text-shadow:6px 7px 5px rgb(56, 7, 230);border: solid 3px rgb(230, 77, 12);}
+.MAID:hover{text-shadow:6px 7px 5px rgb(56, 7, 230);border: solid 3px rgb(230, 77, 12);}
 /*
 table {
     border-collapse: collapse;
