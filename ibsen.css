@@ -57,4 +57,21 @@ td {border: solid 1px;
     text-align: center;padding: 8px;}
 tr {background-color:rgb(168, 8, 120) ;}
 tr:nth-child(even) {background-color: #42b10b;}
-
+ul.navbar-horizontal{
+  list-style-type: none;
+  margin: 1px;
+  padding: 2px;
+}
+ul.navbar-horizontal li{
+  float: left;
+  color: rgb(154, 4, 4);
+  
+}
+/*ul.navbar-horizontal a{
+  display: block;
+  padding: 3px;
+}
+ul.navbar-horizontol a:hover{
+  background-color: rgb(187, 8, 8);
+  color: rgb(14, 237, 14);
+}*/
